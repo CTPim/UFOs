@@ -2,7 +2,7 @@
 
 
 ### Overview of Project
-(all files all located in the Challenge Folder)
+(all required files all located in the Challenge Folder)
 
 The purpose of this project is to update the UFO Sightings website in order to provide a more in-depth analysis. The website will now allow users to filter for multiple criteria at the same time. Filters for city, state, country, and shape of UFO have been added. 
 
