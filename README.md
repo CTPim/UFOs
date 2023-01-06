@@ -7,4 +7,4 @@
 
 ### Summary
 
-![Updated UFO Finder](/web/static/images/updated_filters.png/)
+![Updated UFO Finder](Challenge Folder/web/static/images/updated_filters.png/)
